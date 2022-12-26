@@ -10,9 +10,11 @@ http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 #EXTINF:0 group-title="Çocuk" tvg-chno="1096" tvg-id="Minika Go" tvg-name="Minika Go" logo="https://i.imgur.com/1SaT0la.png", Minika Go
 http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1044" tvg-id="Kanal D" tvg-name="Kanal D HD" tvg-logo="https://i.imgur.com/5rctwur.png", Kanal D HD
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+https://kanald.blutv.com/blutv_kanald_live/live.m3u8 
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1045" tvg-id="Show TV" tvg-name="Show TV HD" tvg-logo="https://i.imgur.com/MIEPLmH.png", Show TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 group-title="Eğlence" tvg-chno="1046" tvg-id="BKM" tvg-name="BKM" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/Çghb2.png", BKM
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1082" tvg-id="Beyaz TV" tvg-name="Beyaz TV HD" tvg-logo="https://i.imgur.com/u3awDdE.png", Beyaz TV HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1057" tvg-id="Kanal 7" tvg-name="Kanal 7 SD" tvg-logo="https://i.imgur.com/2CCrVsW.png", Kanal 7 SD
