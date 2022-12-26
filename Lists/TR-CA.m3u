@@ -5,89 +5,89 @@ http://stream.suboroiptv.tv/TRT1/playlist.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-chno="1003" tvg-id="TRT Çocuk" tvg-name="TRT Çocuk HD" tvg-logo="https://i.imgur.com/Visnwr4.png" ,TRT Çocuk HD
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="Çocuk" tvg-chno="1097" tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" logo="https://i.imgur.com/BXgsbWk.png", Minika Çocuk
+#EXTINF:0 group-title="Çocuk" tvg-chno="1004" tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" logo="https://i.imgur.com/BXgsbWk.png", Minika Çocuk
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
-#EXTINF:0 group-title="Çocuk" tvg-chno="1096" tvg-id="Minika Go" tvg-name="Minika Go" logo="https://i.imgur.com/1SaT0la.png", Minika Go
+#EXTINF:0 group-title="Çocuk" tvg-chno="1005" tvg-id="Minika Go" tvg-name="Minika Go" logo="https://i.imgur.com/1SaT0la.png", Minika Go
 http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
-#EXTINF:0 group-title="Çocuk" tvg-chno="1097" tvg-id="FOX TV" tvg-name="FOX TV HD" logo="https://i.imgur.com/SeEMn3B.png", FOX TV HD
+#EXTINF:0 group-title="Çocuk" tvg-chno="1006" tvg-id="FOX TV" tvg-name="FOX TV HD" logo="https://i.imgur.com/SeEMn3B.png", FOX TV HD
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-chno="1076" tvg-id="TV 8" tvg-name="TV 8 HD" tvg-logo="https://i.imgur.com/SU4zzTo.png", TV8 HD
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1007" tvg-id="TV 8" tvg-name="TV 8 HD" tvg-logo="https://i.imgur.com/SU4zzTo.png", TV8 HD
 http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Eğlence" tvg-chno="1077" tvg-id="TV 8.5" tvg-name="TV 8.5 HD" tvg-logo="https://i.imgur.com/vXBT0vi.png", TV8.5 HD
+#EXTINF:-1 group-title="Eğlence" tvg-chno="1008" tvg-id="TV 8.5" tvg-name="TV 8.5 HD" tvg-logo="https://i.imgur.com/vXBT0vi.png", TV8.5 HD
 http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Ulusal" tvg-chno="1044" tvg-id="Kanal D" tvg-name="Kanal D HD" tvg-logo="https://i.imgur.com/5rctwur.png", Kanal D HD
-https://kanald.blutv.com/blutv_kanald_live/live.m3u8 
-#EXTINF:-1 group-title="Ulusal" tvg-chno="1045" tvg-id="Show TV" tvg-name="Show TV HD" tvg-logo="https://i.imgur.com/MIEPLmH.png", Show TV HD
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 group-title="Eğlence" tvg-chno="1046" tvg-id="BKM" tvg-name="BKM" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/Çghb2.png", BKM
+#EXTINF:-1 group-title="Eğlence" tvg-chno="1009" tvg-id="Kanal D BKM" tvg-name="Kanal D BKM" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/Çghb2.png", Kanal D BKM
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-chno="1082" tvg-id="Beyaz TV" tvg-name="Beyaz TV HD" tvg-logo="https://i.imgur.com/u3awDdE.png", Beyaz TV HD
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-chno="1057" tvg-id="Kanal 7" tvg-name="Kanal 7 SD" tvg-logo="https://i.imgur.com/2CCrVsW.png", Kanal 7 SD
-http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Ulusal" tvg-chno="3999" tvg-id="Star TV" tvg-name="Star TV HD" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV HD
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1010" tvg-id="Kanal D" tvg-name="Kanal D HD" tvg-logo="https://i.imgur.com/5rctwur.png", Kanal D HD
+https://kanald.blutv.com/blutv_kanald_live/live.m3u8 
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1011" tvg-id="Show TV" tvg-name="Show TV HD" tvg-logo="https://i.imgur.com/MIEPLmH.png", Show TV HD
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1012" tvg-id="Star TV" tvg-name="Star TV HD" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV HD
 http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Ulusal" tvg-chno="3999" tvg-id="Star TV" tvg-name="Star TV" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1012" tvg-id="Star TV" tvg-name="Star TV" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-chno="3983" tvg-id="360 TV" tvg-name="360 TV HD" tvg-logo="https://i.imgur.com/DDj2Edt.png", 360 TV HD
+#EXTINF:-1 group-title="Eğlence" tvg-chno="1013" tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.imgur.com/WOaOmsm.png", DMAX
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF:-1 group-title="Eğlence" tvg-chno="1013" tvg-id="DMAX" tvg-name="DMAX HD" tvg-logo="https://i.imgur.com/WOaOmsm.png", DMAX
+http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Eğlence" tvg-chno="1014" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.imgur.com/IWAb6jm.png", TLC
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1015" tvg-id="360 TV" tvg-name="360 TV HD" tvg-logo="https://i.imgur.com/DDj2Edt.png", 360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-chno="3983" tvg-id="360 TV" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png", 360 TV HD
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1015" tvg-id="360 TV" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png", 360 TV HD
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-chno="4005" tvg-id="TGRT EU" tvg-name="TGRT EU" tvg-logo="https://i.imgur.com/TSjsP3P.png", TV EM
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1016" tvg-id="TGRT EU" tvg-name="TGRT EU" tvg-logo="https://i.imgur.com/TSjsP3P.png", TV EM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-chno="-1" tvg-id="TV EM" tvg-name="TV EM" tvg-logo="https://i.imgur.com/fhhp6gZ.png", TGRT EU
-https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-chno="1025" tvg-id="Kanal 7 Avrupa" tvg-name="Kanal 7 Avrupa FHD" tvg-logo="https://i.imgur.com/JMt9muQ.png", Kanal 7 Avrupa FHD
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1017" tvg-id="Beyaz TV" tvg-name="Beyaz TV HD" tvg-logo="https://i.imgur.com/u3awDdE.png", Beyaz TV HD
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1018" tvg-id="Kanal 7" tvg-name="Kanal 7 SD" tvg-logo="https://i.imgur.com/2CCrVsW.png", Kanal 7 SD
+http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1019" tvg-id="Kanal 7 Avrupa" tvg-name="Kanal 7 Avrupa FHD" tvg-logo="https://i.imgur.com/JMt9muQ.png", Kanal 7 Avrupa FHD
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1004" tvg-id="TRT Haber" tvg-name="TRT Haber HD" tvg-logo="https://i.imgur.com/RcYdHCh.png",TRT Haber HD
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1020" tvg-id="TV EM" tvg-name="TV EM" tvg-logo="https://i.imgur.com/fhhp6gZ.png", TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1 group-title="Haber" tvg-chno="1021" tvg-id="TRT Haber" tvg-name="TRT Haber HD" tvg-logo="https://i.imgur.com/RcYdHCh.png",TRT Haber HD
 http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
-#EXTINF:0 group-title="Haber" tvg-chno="1005" tvg-id="Halk TV" tvg-name="Halk TV HD" tvg-logo="https://i.imgur.com/fSKAoH7.png", Halk TV
+#EXTINF:0 group-title="Haber" tvg-chno="1022" tvg-id="Halk TV" tvg-name="Halk TV HD" tvg-logo="https://i.imgur.com/fSKAoH7.png", Halk TV
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1070" tvg-id="CNN Türk" tvg-name="CNN Türk SD" tvg-logo="https://i.imgur.com/0h5Mj2J.png", CNN Türk SD
+#EXTINF:-1 group-title="Haber" tvg-chno="1023" tvg-id="CNN Türk" tvg-name="CNN Türk SD" tvg-logo="https://i.imgur.com/0h5Mj2J.png", CNN Türk SD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="3082" tvg-id="TGRT Haber" tvg-name="TGRT Haber FHD" tvg-logo="https://i.imgur.com/1wUWtlQ.png", TGRT Haber FHD
+#EXTINF:-1 group-title="Haber" tvg-chno="1024" tvg-id="TGRT Haber" tvg-name="TGRT Haber FHD" tvg-logo="https://i.imgur.com/1wUWtlQ.png", TGRT Haber FHD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="3082" tvg-id="TGRT Haber" tvg-name="TGRT Haber SD" tvg-logo="https://i.imgur.com/1wUWtlQ.png", TGRT Haber SD
+#EXTINF:-1 group-title="Haber" tvg-chno="1025" tvg-id="TGRT Haber" tvg-name="TGRT Haber SD" tvg-logo="https://i.imgur.com/1wUWtlQ.png", TGRT Haber SD
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="3081" tvg-id="Habertürk" tvg-name="Habertürk HD" tvg-logo="https://i.imgur.com/EeHjGly.png", Habertürk HD
+#EXTINF:-1 group-title="Haber" tvg-chno="1026" tvg-id="Habertürk" tvg-name="Habertürk HD" tvg-logo="https://i.imgur.com/EeHjGly.png", Habertürk HD
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="-1" tvg-id="Haber Globaş HD" tvg-name="Haber Global HD" tvg-logo="https://i.imgur.com/rZZ1YKn.png", Haber Global HD
+#EXTINF:-1 group-title="Haber" tvg-chno="1027" tvg-id="Haber Global HD" tvg-name="Haber Global HD" tvg-logo="https://i.imgur.com/rZZ1YKn.png", Haber Global HD
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1078" tvg-id="NTV" tvg-name="NTV HD" tvg-logo="https://i.imgur.com/XKVBJ7q.png", NTV HD
+#EXTINF:-1 group-title="Haber" tvg-chno="1028" tvg-id="NTV" tvg-name="NTV HD" tvg-logo="https://i.imgur.com/XKVBJ7q.png", NTV HD
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1053" tvg-id="24 TV" tvg-name="24 TV FHD" tvg-logo="https://i.imgur.com/Q8tSosc.png", 24 TV FHD
+#EXTINF:-1 group-title="Haber" tvg-chno="1029" tvg-id="24 TV" tvg-name="24 TV FHD" tvg-logo="https://i.imgur.com/Q8tSosc.png", 24 TV FHD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1053" tvg-id="24 TV" tvg-name="24 TV HD" tvg-logo="https://i.imgur.com/Q8tSosc.png", 24 TV HD
+#EXTINF:-1 group-title="Haber" tvg-chno="1029" tvg-id="24 TV" tvg-name="24 TV HD" tvg-logo="https://i.imgur.com/Q8tSosc.png", 24 TV HD
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1053" tvg-id="24 TV" tvg-name="24 TV HD" tvg-logo="https://i.imgur.com/Q8tSosc.png", 24 TV HD
+#EXTINF:-1 group-title="Haber" tvg-chno="1029" tvg-id="24 TV" tvg-name="24 TV HD" tvg-logo="https://i.imgur.com/Q8tSosc.png", 24 TV HD
 https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="-1" tvg-id="Anadolu Ajansı" tvg-name="Anadolu Ajansı" tvg-logo="https://i.imgur.com/aqtOmzs.png", Anadolu Ajansı
+#EXTINF:-1 group-title="Haber" tvg-chno="1030" tvg-id="Anadolu Ajansı" tvg-name="Anadolu Ajansı" tvg-logo="https://i.imgur.com/aqtOmzs.png", Anadolu Ajansı
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="4022" tvg-id="Akit TV" tvg-name="Akit TV FHD" tvg-logo="https://i.imgur.com/8zspKJz.png", Akit TV HD
+#EXTINF:-1 group-title="Haber" tvg-chno="1031" tvg-id="Akit TV" tvg-name="Akit TV FHD" tvg-logo="https://i.imgur.com/8zspKJz.png", Akit TV HD
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="4015" tvg-id="Bengütürk TV" tvg-name="Bengütürk TV FHD" tvg-logo="https://i.imgur.com/wATUiUb.png", Bengütürk TV HD
+#EXTINF:-1 group-title="Haber" tvg-chno="1032" tvg-id="Bengütürk TV" tvg-name="Bengütürk TV FHD" tvg-logo="https://i.imgur.com/wATUiUb.png", Bengütürk TV HD
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1094" tvg-name=tvg-id="YOL TV" tvg-name="YOL TV" tvg-logo="https://i.imgur.com/z94ZT0Q.png", Yol TV
+#EXTINF:-1 group-title="Haber" tvg-chno="1033" tvg-name=tvg-id="YOL TV" tvg-name="YOL TV" tvg-logo="https://i.imgur.com/z94ZT0Q.png", Yol TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
-#EXTINF:0 type="stream" group="Haber" channelId="-1" logo="https://i.imgur.com/pSvhSP2.png", DHA Canlı 1
+#EXTINF:-1 group-title="Haber" tvg-chno="1034" tvg-name=tvg-id="DHA Canlı 1" tvg-name="DHA Canlı 1" tvg-logo="https://i.imgur.com/pSvhSP2.png", DHA Canlı 1
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
-#EXTINF:0 type="stream" group="Haber" channelId="-1" logo="https://i.imgur.com/pSvhSP2.png", DHA Canlı 2
+#EXTINF:-1 group-title="Haber" tvg-chno="1035" tvg-name=tvg-id="DHA Canlı 2" tvg-name="DHA Canlı 2" tvg-logo="https://i.imgur.com/pSvhSP2.png", DHA Canlı 2
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
-#EXTINF:0 type="stream" group="Ekonomi" channelId="3075" logo="https://i.imgur.com/kRd0lhF.png", Bloomberg HT HD
+#EXTINF:-1 group-title="Ekonomi" tvg-chno="1036" tvg-name=tvg-id="Bloomberg HT" tvg-name="Bloomberg HT HD" tvg-logo="https://i.imgur.com/pSvhSP2.png", Bloomberg HT HD
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
-#EXTINF:0 type="stream" group="Ekonomi" channelId="3075" logo="https://i.imgur.com/kRd0lhF.png", Bloomberg HT HD
+#EXTINF:-1 group-title="Ekonomi" tvg-chno="1037" tvg-name=tvg-id="Bloomberg HT" tvg-name="Bloomberg HT HD" tvg-logo="https://i.imgur.com/kRd0lhF.png", Bloomberg HT HD
 http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:0 type="stream" group="Eğlence" channelId="2970" logo="https://i.imgur.com/h75ScKT.png", TRT 2 HD
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:0 type="stream" group="Eğlence" channelId="3040" logo="https://i.imgur.com/p4GTH3I.png", teve2 SD
 http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd
-#EXTINF:0 type="stream" group="Eğlence" channelId="978" logo="https://i.imgur.com/WOaOmsm.png", DMAX
-https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
-#EXTINF:0 type="stream" group="Eğlence" channelId="978" logo="https://i.imgur.com/WOaOmsm.png", DMAX
-http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
-#EXTINF:0 type="stream" group="Eğlence" channelId="67" logo="https://i.imgur.com/IWAb6jm.png", TLC
-https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
-#EXTINF:0 type="stream" group="Eğlence" channelId="-1" logo="https://i.imgur.com/dzwH6Nx.png", TV4
+#EXTINF:0 type="stream" group="Eğlence" channelId="4099" logo="https://i.imgur.com/dzwH6Nx.png", TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:0 type="stream" group="Eğlence" channelId="4008" logo="https://i.imgur.com/kS22aNW.png", Uçankuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
@@ -99,7 +99,7 @@ http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 type="stream" group="Spor" channelId="3086" logo="https://i.imgur.com/0O8xAZy.png", GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:0 type="stream" group="Müzik" channelId="-1" logo="https://i.imgur.com/LNXfYdT.png", Dream Türk
+#EXTINF:0 type="stream" group="Müzik" channelId="4098" logo="https://i.imgur.com/LNXfYdT.png", Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:0 type="stream" group="Müzik" channelId="3289" logo="https://i.imgur.com/2FagcAf.png", Power TV FHD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
