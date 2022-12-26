@@ -83,6 +83,10 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-chno="1037" tvg-name=tvg-id="Bloomberg HT" tvg-name="Bloomberg HT HD" tvg-logo="https://i.imgur.com/kRd0lhF.png", Bloomberg HT HD
 http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="Eğlence" tvg-chno="1038" tvg-name=tvg-id="Flash TV" tvg-name="Flash TV HD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/79/b5/1b/79b51bed-8355-0ac5-dd05-69681cad5c6c/source/256x256bb.jpg", Flash TV HD
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1 group-title="Eğlence" tvg-chno="1038" tvg-name=tvg-id="Flash TV" tvg-name="Flash TV" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/79/b5/1b/79b51bed-8355-0ac5-dd05-69681cad5c6c/source/256x256bb.jpg", Flash TV HD
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8 
 #EXTINF:0 type="stream" group="Eğlence" channelId="2970" logo="https://i.imgur.com/h75ScKT.png", TRT 2 HD
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:0 type="stream" group="Eğlence" channelId="3040" logo="https://i.imgur.com/p4GTH3I.png", teve2 SD
