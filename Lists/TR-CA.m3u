@@ -9,6 +9,12 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 #EXTINF:0 group-title="Çocuk" tvg-chno="1096" tvg-id="Minika Go" tvg-name="Minika Go" logo="https://i.imgur.com/1SaT0la.png", Minika Go
 http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
+#EXTINF:0 group-title="Çocuk" tvg-chno="1097" tvg-id="FOX TV" tvg-name="FOX TV HD" logo="https://i.imgur.com/SeEMn3B.png", FOX TV HD
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1076" tvg-id="TV 8" tvg-name="TV 8 HD" tvg-logo="https://i.imgur.com/SU4zzTo.png", TV8 HD
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Eğlence" tvg-chno="1077" tvg-id="TV 8.5" tvg-name="TV 8.5 HD" tvg-logo="https://i.imgur.com/vXBT0vi.png", TV8.5 HD
+http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1044" tvg-id="Kanal D" tvg-name="Kanal D HD" tvg-logo="https://i.imgur.com/5rctwur.png", Kanal D HD
 https://kanald.blutv.com/blutv_kanald_live/live.m3u8 
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1045" tvg-id="Show TV" tvg-name="Show TV HD" tvg-logo="https://i.imgur.com/MIEPLmH.png", Show TV HD
@@ -19,8 +25,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1057" tvg-id="Kanal 7" tvg-name="Kanal 7 SD" tvg-logo="https://i.imgur.com/2CCrVsW.png", Kanal 7 SD
 http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Ulusal" tvg-chno="1076" tvg-id="TV 8" tvg-name="TV 8 HD" tvg-logo="https://i.imgur.com/SU4zzTo.png", TV8 HD
-http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Ulusal" tvg-chno="3999" tvg-id="Star TV" tvg-name="Star TV HD" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV HD
 http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Ulusal" tvg-chno="3999" tvg-id="Star TV" tvg-name="Star TV" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV
@@ -77,8 +81,6 @@ http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:0 type="stream" group="Eğlence" channelId="3040" logo="https://i.imgur.com/p4GTH3I.png", teve2 SD
 http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd
-#EXTINF:0 type="stream" group="Eğlence" channelId="3991" logo="https://i.imgur.com/vXBT0vi.png", TV8.5 HD
-http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd
 #EXTINF:0 type="stream" group="Eğlence" channelId="978" logo="https://i.imgur.com/WOaOmsm.png", DMAX
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 #EXTINF:0 type="stream" group="Eğlence" channelId="978" logo="https://i.imgur.com/WOaOmsm.png", DMAX
