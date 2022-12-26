@@ -10,7 +10,7 @@ http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 #EXTINF:0 group-title="Çocuk" tvg-chno="1096" tvg-id="Minika Go" tvg-name="Minika Go" logo="https://i.imgur.com/1SaT0la.png", Minika Go
 http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1044" tvg-id="Kanal D" tvg-name="Kanal D HD" tvg-logo="https://i.imgur.com/5rctwur.png", Kanal D HD
-http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1045" tvg-id="Show TV" tvg-name="Show TV HD" tvg-logo="https://i.imgur.com/MIEPLmH.png", Show TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1082" tvg-id="Beyaz TV" tvg-name="Beyaz TV HD" tvg-logo="https://i.imgur.com/u3awDdE.png", Beyaz TV HD
@@ -372,7 +372,7 @@ http://s01.vpis.io/sariyer/sariyer.m3u8
 #EXTINF:0 type="stream" group="Yerel" channelId="-1" logo="https://i.imgur.com/y4d9Kc2.png", Serhat TV
 https://cdn10-serhattv.yayin.com.tr/serhattv/serhattv/chunklist_w320520730.m3u8
 #EXTINF:0 type="stream" group="Yerel" channelId="-1" logo="https://i.imgur.com/DPIRL1F.png", Sinop Yıldız
-http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 #EXTINF:0 type="stream" group="Yerel" channelId="-1" logo="https://i.imgur.com/Pb7DzZC.png", Sinop 57 TV
 https://cdn-sbroadcast.yayin.com.tr/sbroadcast/sbroadcast/chunklist_w1507485507.m3u8
 #EXTINF:0 type="stream" group="Yerel" channelId="-1" logo="https://i.imgur.com/CvR3xZW.png", Siteler TV
