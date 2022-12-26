@@ -3,9 +3,9 @@
 http://stream.suboroiptv.tv/TRT1/playlist.m3u8
 #EXTINF:-1 tvg-chno="1002" tvg-id="TRT Müzik" tvg-name="TRT Müzik HD" tvg-logo="https://i.imgur.com/8EuB2x7.png" group-title="Müzik",TRT Müzik HD
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-chno="1003" tvg-id="TRT Çocuk" tvg-name="TRT Çocuk HD" tvg-logo="https://i.imgur.com/Visnwr4.png" group-title="Çocuk",TRT Çocuk
+#EXTINF:-1 tvg-chno="1003" tvg-id="TRT Çocuk" tvg-name="TRT Çocuk HD" tvg-logo="https://i.imgur.com/Visnwr4.png" group-title="Çocuk",TRT Çocuk HD
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-chno="1004" tvg-id="TRT Haber" tvg-name="TRT Haber HD" tvg-logo="https://i.imgur.com/RcYdHCh.png" group-title="Haber",TRT Çocuk
+#EXTINF:-1 tvg-chno="1004" tvg-id="TRT Haber" tvg-name="TRT Haber HD" tvg-logo="https://i.imgur.com/RcYdHCh.png" group-title="Haber",TRT Haber HD
 http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
 #EXTINF:0 group-title="Ulusal" tvg-chno="1005" tvg-id="Halk TV" tvg-name="Halk TV HD" tvg-logo="https://i.imgur.com/fSKAoH7.png", Halk TV
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
