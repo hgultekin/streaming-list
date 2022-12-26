@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" group="Ulusal" channelId="1056" logo="https://i.imgur.com/A6nCXZN.png", TRT 1 HD
+#EXTINF:0 type="stream" group="Ulusal" group-title="HGTV" group-title="Ulusal" channelId="1056" logo="https://i.imgur.com/A6nCXZN.png", TRT 1 HD
 http://stream.suboroiptv.tv/TRT1/playlist.m3u8
 #EXTINF:0 type="stream" group="Ulusal" channelId="1044" logo="https://i.imgur.com/5rctwur.png", Kanal D HD
 http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
