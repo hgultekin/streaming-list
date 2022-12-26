@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hgultekin/streaming-list/main/epg/TR-CA_guide.xml" url-tvg="https://raw.githubusercontent.com/hgultekin/streaming-list/main/epg/TR-CA_guide.xml" refresh="3600"
 #EXTINF:-1 tvg-chno="1001" tvg-id="TRT 1" tvg-name="TRT 1 HD" tvg-logo="https://i.imgur.com/A6nCXZN.png" group-title="Ulusal",TRT 1 HD
 http://stream.suboroiptv.tv/TRT1/playlist.m3u8
-#EXTINF:-1 tvg-chno="1002" tvg-id="TRT Muzik" tvg-name="TRT Müzik HD" tvg-logo="https://i.imgur.com/8EuB2x7.png" group-title="Müzik",TRT 1 HD
+#EXTINF:-1 tvg-chno="1002" tvg-id="TRT Muzik" tvg-name="TRT Müzik HD" tvg-logo="https://i.imgur.com/8EuB2x7.png" group-title="Müzik",TRT Müzik HD
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8 
 #EXTINF:0 type="stream" group="Ulusal" channelId="1044" logo="https://i.imgur.com/5rctwur.png", Kanal D HD
 http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
