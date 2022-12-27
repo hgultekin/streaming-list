@@ -63,12 +63,12 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-chno="1037" tvg-name=tvg-id="Bloomberg HT" tvg-name="Bloomberg HT HD" tvg-logo="https://i.imgur.com/kRd0lhF.png", Bloomberg HT HD
 http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="Ekonomi" tvg-chno="1039" tvg-name=tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8LFl3ek.png", Business Channel Türk
+https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-chno="1038" tvg-name=tvg-id="Flash TV" tvg-name="Flash TV HD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/79/b5/1b/79b51bed-8355-0ac5-dd05-69681cad5c6c/source/256x256bb.jpg", Flash TV HD
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-chno="1038" tvg-name=tvg-id="Flash TV" tvg-name="Flash TV" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/79/b5/1b/79b51bed-8355-0ac5-dd05-69681cad5c6c/source/256x256bb.jpg", Flash TV
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8 
-#EXTINF:-1 group-title="Ulusal" tvg-chno="1012" tvg-id="Star TV" tvg-name="Star TV HD" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV HD
-http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Eğlence" tvg-chno="1009" tvg-id="Kanal D BKM" tvg-name="Kanal D BKM" tvg-logo="https://i.imgur.com/5rctwur.png", Kanal D BKM
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-chno="1013" tvg-id="DMAX" tvg-name="DMAX SD" tvg-logo="https://i.imgur.com/WOaOmsm.png", DMAX SD
@@ -125,8 +125,6 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-chno="-1" tvg-name=tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3mxocHn.png", Briç ve Satranç TV
 http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 group-title="Diğer" tvg-chno="-1" tvg-name=tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8LFl3ek.png", Business Channel Türk
-https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-chno="-1" tvg-name=tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ikKLH0b.png", Can TV
 https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-chno="-1" tvg-name=tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WDkpASE.png", Çiftçi TV
