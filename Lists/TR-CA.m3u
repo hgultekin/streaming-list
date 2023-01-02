@@ -29,6 +29,8 @@ https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1016" tvg-id="TGRTEU.tr" tvg-name="TGRT EU" tvg-logo="https://i.imgur.com/TSjsP3P.png", TV EM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1 group-title="Yerel" tvg-chno="-1" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bMHD4TU.png", Yıldız En TV
+http://rv.therevenge.co/live/11223344/11223344/80593.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1017" tvg-id="BeyazTV.tr" tvg-name="Beyaz TV HD" tvg-logo="https://i.imgur.com/u3awDdE.png", Beyaz TV HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1018" tvg-id="Kanal7.tr" tvg-name="Kanal 7 SD" tvg-logo="https://i.imgur.com/2CCrVsW.png", Kanal 7 SD
