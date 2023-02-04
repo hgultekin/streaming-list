@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:0 type="stream" group="Ulusal" channelId="1056" logo="https://i.imgur.com/A6nCXZN.png", TRT 1 FHD
-http://79.124.14.198:8088/play/a05y
-#EXTINF:0 type="stream" group="Ulusal" channelId="1056" logo="https://i.imgur.com/A6nCXZN.png", TRT 1 FHD
 http://149.255.152.66:8080/trt1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group="Ulusal" channelId="1056" logo="https://i.imgur.com/A6nCXZN.png", TRT 1 HD
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8
