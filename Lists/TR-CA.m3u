@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml" url-tvg="https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml" url-tvg="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml" refresh="3600"
 #EXTINF:-1 tvg-chno="1001" tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://i.imgur.com/A6nCXZN.png" group-title="Ulusal",TRT 1 HD
 http://stream.suboroiptv.tv/TRT1/playlist.m3u8
 #EXTINF:-1 tvg-chno="1002" tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik HD" tvg-logo="https://i.imgur.com/8EuB2x7.png" group-title="Müzik",TRT Müzik HD
