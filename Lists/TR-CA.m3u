@@ -85,10 +85,8 @@ https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:-1 group-title="Haber" tvg-chno="1027" tvg-id="HaberGlobal.tr" tvg-name="Haber Global HD" tvg-logo="https://i.imgur.com/rZZ1YKn.png", Haber Global HD
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Haber" logo="https://blogger.googleusercontent.com/img/a/AVvXsEii8xR5n8XeIJ5hszOs_uCsSwhAhtDo5aO_rIqY1k9t4DbzJkIyg10TEFdtc4ZGwuLspWzD8M6F3c-uK50GuU5AUgCnNFpQi8oa2sWakYh6Qfxid6OEfZB-G_XvNZMzzcFrOD6ByzOkOB9gVjau00AOXiQRHxFVeaIghXYfXpcIIxJGbnr1PI3SmfFfNA=w153-h86", SOZCU TV
-http://antalya.tvizlehd.com/live/sozcutv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-chno="1028" tvg-id="SozcuTV.tr" tvg-name="Sözcü TV YT" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEii8xR5n8XeIJ5hszOs_uCsSwhAhtDo5aO_rIqY1k9t4DbzJkIyg10TEFdtc4ZGwuLspWzD8M6F3c-uK50GuU5AUgCnNFpQi8oa2sWakYh6Qfxid6OEfZB-G_XvNZMzzcFrOD6ByzOkOB9gVjau00AOXiQRHxFVeaIghXYfXpcIIxJGbnr1PI3SmfFfNA=w153-h86", Sözcü TV YT
-https://www.youtube.com/live/2i8lfP9oqvk
+https://www.youtube.com/@Sozcutelevizyonu/live
 #EXTINF:-1 group-title="Ekonomi" tvg-chno="1036" tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT HD" tvg-logo="https://i.imgur.com/pSvhSP2.png", Bloomberg HT HD
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-chno="2970" tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/h75ScKT.png", TRT 2 HD
