@@ -47,8 +47,6 @@ https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
 #EXTINF:0 group-title="Haber" tvg-chno="1022" tvg-id="HalkTV.tr" tvg-name="Halk TV HD" tvg-logo="https://i.imgur.com/fSKAoH7.png", Halk TV HD
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1022" tvg-id="HalkTV.tr" tvg-name="Halk TV YT" tvg-logo="https://i.imgur.com/fSKAoH7.png", Halk TV YT
-https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/halktv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-chno="1023" tvg-id="SozcuTV.tr" tvg-name="Sözcü TV YT" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png", Sözcü TV YT
 https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/sozcutv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-chno="1024" tvg-id="Tele1.tr" tvg-name="Tele 1 YT" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", Tele 1 YT
@@ -57,10 +55,6 @@ https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/tele1.m3u8
 https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/beinsports-haber.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1015" tvg-id="360.tr" tvg-name="360 TV YT" tvg-logo="https://i.imgur.com/DDj2Edt.png", 360 TV YT
 https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/360tv.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1025" tvg-id="cemtv.tr" tvg-name="CEM TV YT" tvg-logo="https://1.bp.blogspot.com/-kSPjn5ufEng/YAlN8k4QqJI/AAAAAAAAQc0/PKnEHEx3IuQQy5fEBxa7cNLNF_8kg2mMgCLcBGAsYHQ/s320/CEMTV.png", CEM TV YT
-https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/cemtv.m3u8
-#EXTINF:-1 group-title="Bölgesel" tvg-chno="1033" tvg-id="YOLTV.tr" tvg-name="YOL TV YT" tvg-logo="https://i.imgur.com/z94ZT0Q.png", Yol TV YT
-https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/yoltv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-chno="1026" tvg-id="CNNTurk.tr" tvg-name="CNN Türk SD" tvg-logo="https://i.imgur.com/0h5Mj2J.png", CNN Türk SD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-chno="1027" tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber FHD" tvg-logo="https://i.imgur.com/1wUWtlQ.png", TGRT Haber FHD
