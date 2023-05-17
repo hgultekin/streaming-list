@@ -45,15 +45,27 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 group-title="Haber" tvg-chno="1021" tvg-id="TRTHaber.tr" tvg-name="TRT Haber HD" tvg-logo="https://i.imgur.com/RcYdHCh.png",TRT Haber HD
 http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
-#EXTINF:0 group-title="Haber" tvg-chno="1022" tvg-id="HalkTV.tr" tvg-name="Halk TV HD" tvg-logo="https://i.imgur.com/fSKAoH7.png", Halk TV
+#EXTINF:0 group-title="Haber" tvg-chno="1022" tvg-id="HalkTV.tr" tvg-name="Halk TV HD" tvg-logo="https://i.imgur.com/fSKAoH7.png", Halk TV HD
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1023" tvg-id="CNNTurk.tr" tvg-name="CNN Türk SD" tvg-logo="https://i.imgur.com/0h5Mj2J.png", CNN Türk SD
+#EXTINF:-1 group-title="Haber" tvg-chno="1022" tvg-id="HalkTV.tr" tvg-name="Halk TV YT" tvg-logo="https://i.imgur.com/fSKAoH7.png", Halk TV YT
+https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/halktv.m3u8
+#EXTINF:-1 group-title="Haber" tvg-chno="1023" tvg-id="SozcuTV.tr" tvg-name="Sözcü TV YT" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEii8xR5n8XeIJ5hszOs_uCsSwhAhtDo5aO_rIqY1k9t4DbzJkIyg10TEFdtc4ZGwuLspWzD8M6F3c-uK50GuU5AUgCnNFpQi8oa2sWakYh6Qfxid6OEfZB-G_XvNZMzzcFrOD6ByzOkOB9gVjau00AOXiQRHxFVeaIghXYfXpcIIxJGbnr1PI3SmfFfNA=w153-h86", Sözcü TV YT
+https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/sozcutv.m3u8
+#EXTINF:-1 group-title="Haber" tvg-chno="1024" tvg-id="Tele1.tr" tvg-name="Tele 1 YT" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", Tele 1 YT
+https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/tele1.m3u8
+#EXTINF:-1 group-title="Haber" tvg-chno="1025" tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER YT" tvg-logo="https://www.canlitv.dev/poster/bein-sports-haber.png", beIN SPORTS HABER YT
+https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/beinsports-haber.m3u8
+#EXTINF:-1 group-title="Haber" tvg-chno="1025" tvg-id="cemtv.tr" tvg-name="CEM TV YT" tvg-logo="https://1.bp.blogspot.com/-kSPjn5ufEng/YAlN8k4QqJI/AAAAAAAAQc0/PKnEHEx3IuQQy5fEBxa7cNLNF_8kg2mMgCLcBGAsYHQ/s320/CEMTV.png", CEM TV YT
+https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/cemtv.m3u8
+#EXTINF:-1 group-title="Bölgesel" tvg-chno="1033" tvg-id="YOLTV.tr" tvg-name="YOL TV YT" tvg-logo="https://i.imgur.com/z94ZT0Q.png", Yol TV YT
+https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/yoltv.m3u8
+#EXTINF:-1 group-title="Haber" tvg-chno="1026" tvg-id="CNNTurk.tr" tvg-name="CNN Türk SD" tvg-logo="https://i.imgur.com/0h5Mj2J.png", CNN Türk SD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1024" tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber FHD" tvg-logo="https://i.imgur.com/1wUWtlQ.png", TGRT Haber FHD
+#EXTINF:-1 group-title="Haber" tvg-chno="1027" tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber FHD" tvg-logo="https://i.imgur.com/1wUWtlQ.png", TGRT Haber FHD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1026" tvg-id="Haberturk.tr" tvg-name="Habertürk HD" tvg-logo="https://i.imgur.com/EeHjGly.png", Habertürk HD
+#EXTINF:-1 group-title="Haber" tvg-chno="1028" tvg-id="Haberturk.tr" tvg-name="Habertürk HD" tvg-logo="https://i.imgur.com/EeHjGly.png", Habertürk HD
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1028" tvg-id="NTV.tr" tvg-name="NTV HD" tvg-logo="https://i.imgur.com/XKVBJ7q.png", NTV HD
+#EXTINF:-1 group-title="Haber" tvg-chno="1029" tvg-id="NTV.tr" tvg-name="NTV HD" tvg-logo="https://i.imgur.com/XKVBJ7q.png", NTV HD
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 #EXTINF:-1 group-title="Haber" tvg-chno="1029" tvg-id="24TV.tr" tvg-name="24 TV FHD" tvg-logo="https://i.imgur.com/Q8tSosc.png", 24 TV FHD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
@@ -87,14 +99,6 @@ https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:-1 group-title="Haber" tvg-chno="1027" tvg-id="HaberGlobal.tr" tvg-name="Haber Global HD" tvg-logo="https://i.imgur.com/rZZ1YKn.png", Haber Global HD
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1028" tvg-id="SozcuTV.tr" tvg-name="Sözcü TV YT" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEii8xR5n8XeIJ5hszOs_uCsSwhAhtDo5aO_rIqY1k9t4DbzJkIyg10TEFdtc4ZGwuLspWzD8M6F3c-uK50GuU5AUgCnNFpQi8oa2sWakYh6Qfxid6OEfZB-G_XvNZMzzcFrOD6ByzOkOB9gVjau00AOXiQRHxFVeaIghXYfXpcIIxJGbnr1PI3SmfFfNA=w153-h86", Sözcü TV YT
-https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/sozcutv.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1028" tvg-id="Tele1.tr" tvg-name="Tele 1 YT" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", Tele 1 YT
-https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/tele1.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1028" tvg-id="BernamaTV.tr" tvg-name="Bernama TV YT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/BernamaTV2008.png", Bernama TV YT
-https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/BernamaTV.m3u8
-#EXTINF:-1 group-title="Haber" tvg-chno="1028" tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER YT" tvg-logo="https://www.canlitv.dev/poster/bein-sports-haber.png", beIN SPORTS HABER YT
-https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/beinsports-haber.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-chno="1036" tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT HD" tvg-logo="https://i.imgur.com/pSvhSP2.png", Bloomberg HT HD
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-chno="2970" tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/h75ScKT.png", TRT 2 HD
