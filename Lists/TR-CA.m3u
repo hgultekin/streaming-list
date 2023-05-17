@@ -55,6 +55,8 @@ https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/sozcutv.m3u8
 https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/tele1.m3u8
 #EXTINF:-1 group-title="Haber" tvg-chno="1025" tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER YT" tvg-logo="https://www.canlitv.dev/poster/bein-sports-haber.png", beIN SPORTS HABER YT
 https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/beinsports-haber.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1015" tvg-id="360.tr" tvg-name="360 TV YT" tvg-logo="https://i.imgur.com/DDj2Edt.png", 360 TV YT
+https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/360tv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-chno="1025" tvg-id="cemtv.tr" tvg-name="CEM TV YT" tvg-logo="https://1.bp.blogspot.com/-kSPjn5ufEng/YAlN8k4QqJI/AAAAAAAAQc0/PKnEHEx3IuQQy5fEBxa7cNLNF_8kg2mMgCLcBGAsYHQ/s320/CEMTV.png", CEM TV YT
 https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/cemtv.m3u8
 #EXTINF:-1 group-title="Bölgesel" tvg-chno="1033" tvg-id="YOLTV.tr" tvg-name="YOL TV YT" tvg-logo="https://i.imgur.com/z94ZT0Q.png", Yol TV YT
