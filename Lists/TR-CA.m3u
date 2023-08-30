@@ -26,7 +26,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1011" tvg-id="ShowTV.tr" tvg-name="Show TV HD" tvg-logo="https://i.imgur.com/MIEPLmH.png", Show TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1012" tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV
-https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1012" tvg-id="StarTv.tr" tvg-name="Star TV YT Live" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV YT
 https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/startv.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1013" tvg-id="ATV.tr" tvg-name="A TV YT Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/512px-Atv_logo_2010.svg.png", ATV YT
