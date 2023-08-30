@@ -27,9 +27,9 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-chno="1012" tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-chno="1012" tvg-id="StarTv.tr" tvg-name="Star TV YT" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV YT
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1012" tvg-id="StarTv.tr" tvg-name="Star TV YT Live" tvg-logo="https://i.imgur.com/8keqhz1.png", Star TV YT
 https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/startv.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-chno="1013" tvg-id="ATV.tr" tvg-name="A TV YT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/512px-Atv_logo_2010.svg.png", ATV YT
+#EXTINF:-1 group-title="Ulusal" tvg-chno="1013" tvg-id="ATV.tr" tvg-name="A TV YT Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/512px-Atv_logo_2010.svg.png", ATV YT
 https://raw.githubusercontent.com/hgultekin/YouTube-to-M3U8/main/atv.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-chno="1013" tvg-id="Turkey.tr" tvg-name=" HD" tvg-logo="https://i.imgur.com/WOaOmsm.png",  HD
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
